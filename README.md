@@ -20,6 +20,7 @@
 ---
 
 ### 🛠️ **Tech Stack**
+
 <p align="center">
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
@@ -43,6 +44,10 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="50" height="50" />
   <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
+</p>
+### 🚀 **Languages I Use**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=HTML;CSS;JavaScript;Java;.NET;Visual+Studio;Figma;Linux;MySQL;MSSQL;React" />
 </p>
 
 ---

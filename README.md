@@ -45,11 +45,11 @@
   <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
 </p>
-### 🚀 **Languages I Use**
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=HTML;CSS;JavaScript;Java;.NET;Visual+Studio;Figma;Linux;MySQL;MSSQL;React" />
-</p>
 
+### 📊 **Languages Used**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulsengar1986&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+</p>
 ---
 
 ### 📊 **GitHub Stats**

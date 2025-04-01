@@ -6,15 +6,15 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A500&center=true&width=435&lines=Frontend+Developer;AI+Engineering+Enthusiast;Building+Responsive+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A500&center=true&width=435&lines=Frontend+Developer+AI+Engineering;Building+Responsive+Web+Apps" />
 </p>
 
 ---
 
 ### 🚀 **About Me**
 - 🌐 Frontend developer passionate about **creating intuitive user experiences**.  
-- 🤖 AI Engineering enthusiast, blending creativity with technical expertise.  
-- 💡 Certified in **HTML, CSS, JavaScript** with strong problem-solving skills.  
+- 🤖 AI engineer, merging technical expertise with creative problem-solving to build intelligent, real-world solutions.  
+- 💡 Certified in **HTML, CSS, JavaScript, Microsoft SQL Server** with strong problem-solving skills.  
 - 🎯 Focused on performance, accessibility, and user-centered design.  
 
 ---

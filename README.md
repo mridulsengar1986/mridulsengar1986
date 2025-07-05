@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A500&center=true&width=435&lines=Frontend+Developer+AI+Engineering;Building+Responsive+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A500&center=true&width=435&lines=Frontend+Developer+AI+Engineer;Building+Responsive+Web+Apps" />
 </p>
 
 ---

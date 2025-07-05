@@ -11,7 +11,7 @@
 
 ---
 ## 
-Check out my portfolio here: https://mriduld.netlify.app/
+Check out my portfolio here:Mridul Portfolio Website 
 ### 🚀 **About Me**
 - 🌐 Frontend developer passionate about **creating intuitive user experiences**.  
 - 🤖 AI engineer, merging technical expertise with creative problem-solving to build intelligent, real-world solutions.  
